@@ -21,11 +21,13 @@ SOURCES += \
     HIDEventMonitor/HIDEventMonitor.cpp \
     main.cpp \
     HeadsetControlQt/HeadsetControlQt.cpp \
+    HeadsetControlQT/chatmixcontroller.cpp \
     Utils/Utils.cpp
 
 HEADERS += \
     ShortcutManager/ShortcutManager.h \
     HeadsetControlQt/HeadsetControlQt.h \
+    HeadsetControlQt/chatmixcontroller.h \
     Utils/Utils.h \
     Worker/Worker.h \
     HIDEventMonitor/HIDEventMonitor.h
